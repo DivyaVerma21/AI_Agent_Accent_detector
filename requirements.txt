@@ -1,0 +1,9 @@
+streamlit==1.45.1
+requests==2.32.3
+yt-dlp==2025.5.22
+moviepy==1.0.3
+torchaudio==2.7.0
+sentencepiece==0.1.99
+speechbrain==1.0.3
+torch==2.7.0
+pydub

@@ -1,0 +1,16 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+<<<<<<< HEAD
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="company_id.*" />
+        </list>
+      </option>
+    </inspection_tool>
+=======
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+>>>>>>> f2b3d40d83c47ba66b29b3294892eadcd1d34f77
+  </profile>
+</component>

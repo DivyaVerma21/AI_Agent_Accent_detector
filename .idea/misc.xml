@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+<<<<<<< HEAD
+  <component name="Black">
+    <option name="sdkName" value="Python 3.12 (AI_Agent_Accent_detector)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (AI_Agent_Accent_detector)" project-jdk-type="Python SDK" />
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="Uninitialized environment" project-jdk-type="Python SDK" />
+>>>>>>> f2b3d40d83c47ba66b29b3294892eadcd1d34f77
+</project>

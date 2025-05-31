@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/.idea/AI_Agent_Accent_detector.iml" filepath="$PROJECT_DIR$/.idea/AI_Agent_Accent_detector.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/PycharmProjects.iml" filepath="$PROJECT_DIR$/.idea/PycharmProjects.iml" />
+>>>>>>> f2b3d40d83c47ba66b29b3294892eadcd1d34f77
+    </modules>
+  </component>
+</project>
